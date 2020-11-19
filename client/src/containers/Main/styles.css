@@ -1,0 +1,18 @@
+.container-main{
+    width: 100%;
+    min-height: 99vh; 
+}
+.search-input{
+    height: 40px;
+    padding-left: 10px;
+    width: 287px;
+}
+.search-input-row{
+    margin-top: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #e7e7e7;
+    display: flex;
+    justify-content: space-between;
+}
